@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning JavaScript on my own time, and Java through coursework. I'm aiming to complete my BS in IT within the next 2 years.
 - 💞️ I’m looking to collaborate on any web dev related topics.
 - 📫 How to reach me: lamartinagianni@gmail.com www.linkedin.com/in/lamartinagianni
+- Check out my website at https://www.glamartina.com
 
 <!---
 giannilamartina/giannilamartina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
